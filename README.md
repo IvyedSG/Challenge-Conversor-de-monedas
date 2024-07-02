@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="">
+  <img src="https://cdn1.gnarususercontent.com.br/6/421189/9d4c9ba6-5b7c-4339-8055-c30d0e57eb99.png">
 </p>
 
 # 💸 Conversor de Monedas Internacionales 💸
