@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DavidVF7/Conversor-de-Monedas/assets/103916971/645bfae6-38cf-4f90-add7-8f9b3929cb5a" alt="Logo del Conversor de Monedas">
+  <img src="">
 </p>
 
 # 💸 Conversor de Monedas Internacionales 💸
@@ -42,12 +42,8 @@ Guarda el historial de conversiones en un archivo de texto para referencia futur
 
 Punto de entrada del programa, gestiona la interacción con el usuario y presenta el menú de opciones.
 
-## 👨‍💻 Autor
-
-- **David Velasco Fierros**
-
 ## 🛠️ Cómo Utilizar el Proyecto
 
 1. **Clona el Repositorio:**
    ```bash
-   git clone https://github.com/DavidVF7/Conversor-de-Monedas.git
+    https://github.com/IvyedSG/Challenge-Conversor-de-monedas.git
